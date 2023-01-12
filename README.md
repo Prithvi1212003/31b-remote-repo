@@ -1,4 +1,4 @@
-# 31b-remote-repo
+I..# 31b-remote-repo
 this is a remote repo
 List of Companies
 1.	RN Electronics:- https://www.rnelectronics.com/resources/what-is-electromagnetic-compatibility-emc-and-why-testing-is-necessary.html
@@ -7,4 +7,3 @@ List of Companies
 4.	https://www.cecert.de/emv
 5.	https://www.cetecom.com/
 6.	https://www.emtest.com/service_support/Links_testinglabs.php
-7.	https://www.intertek.com/medical/regulatory-requirements/emc-testing/
